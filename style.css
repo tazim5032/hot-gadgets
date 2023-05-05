@@ -1,0 +1,41 @@
+.buy-now-button{
+    background: black;
+    color: #FFF;
+    border: none;
+    border-radius: 8px; /*rectangle er kona gula sundor kore dei*/
+    padding: 9px 25px;
+    cursor: pointer;
+    text-align: center;
+}
+.card{
+    border: none;
+    border-radius: 10px;
+    box-shadow: 5px 5px 10px lightgray
+}
+.container{
+    margin-bottom: 100px;
+}
+.card button{
+    margin-left: 135px;
+}
+.card h5{
+    margin-left: 100px;
+}
+.card h4{
+    margin-left: 160px;
+}
+.card img{
+    width: 250px;
+    margin-left: 75px;
+}
+.background{
+
+    background-image: url(bg-1.png);
+    background-repeat: no-repeat;
+}
+.background1{
+
+    background-image: url(bg-2.png);
+    background-repeat: no-repeat;
+}
+
