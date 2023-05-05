@@ -38,4 +38,7 @@
     background-image: url(bg-2.png);
     background-repeat: no-repeat;
 }
+footer p{
+    text-align: center;
+}
 
